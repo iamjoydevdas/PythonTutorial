@@ -1,3 +1,4 @@
 ﻿*.zip
 *.pydevsysteminfo
 Basics/.metadata
+*.pydevproject
